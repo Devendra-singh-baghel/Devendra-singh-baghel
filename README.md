@@ -1,27 +1,18 @@
-
 <h1 align="center">✨ Devendra Singh Baghel</h1>
-
-
----
-
 
 ## 👨‍💻 About Me
 
-- 🎓 I’ve completed my MCA with an 8.2 CGPA.  
+- 🎓 I’ve completed my MCA with an 8.2 CGPA.
 - 💻 I’m focused on becoming a Frontend Developer, building fast and responsive web apps.
-- ⚛️ I work mainly with React, JavaScript, Tailwind, and modern frontend tools. 
-- 🚀 I’m currently sharpening my **MERN stack** skills and expanding my understanding of full-stack development.  
-- 📈 Learning something new every day keeps me excited about frontend development. 
-
+- ⚛️ I work mainly with React, JavaScript, Tailwind, and modern frontend tools.
+- 🚀 I’m currently sharpening my **MERN stack** skills and expanding my understanding of full-stack development.
+- 📈 Learning something new every day keeps me excited about frontend development.
 
 ### 💪 Strengths & Work Style
-- 🧠 Quick learner who adapts fast to new technologies.  
-- 🧩 Strong understanding of UI logic, component structure, and clean code practices.  
-- 🤝 Team-friendly, good communicator, and open to feedback.  
 
-
----
-
+- 🧠 Quick learner who adapts fast to new technologies.
+- 🧩 Strong understanding of UI logic, component structure, and clean code practices.
+- 🤝 Team-friendly, good communicator, and open to feedback.
 
 <!-- ====== SKILLS SECTION ====== -->
 
@@ -33,23 +24,17 @@
 
 <br/>
 
-
----
-
-
 <!-- ====== GITHUB STREAK SECTION ====== -->
 
 <h2 align="left">🔥 Streaks</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Devendra-singh-baghel&theme=dark&hide_border=true&background=0D1117&ring=F28C28&fire=F28C28&currStreakNum=FFF&sideNums=FFF&currStreakLabel=F28C28&sideLabels=FFF&dates=AAA" />
+  <div style="display: inline-block; padding: 6px; border: 2px solid #F28C28;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Devendra-singh-baghel&theme=dark&hide_border=true&background=0D1117&ring=F28C28&fire=F28C28&currStreakNum=FFF&sideNums=FFF&currStreakLabel=F28C28&sideLabels=FFF&dates=AAA" />
+  </div>
 </p>
 
 <br/>
-
-
----
-
 
 <!-- ====== PROJECTS SECTION WITH ICONS ====== -->
 
@@ -73,9 +58,6 @@
   </a>
 
 </p>
-  
-
----
 
 
 <!-- ====== CONTACT SECTION ====== -->
@@ -92,10 +74,15 @@
   </a>
 
   <a href="https://linkedin.com/in/devendra-singh-baghel-267023351" target="_blank">
-    <img src="https://img.shields.io/badge/-Professional_Updates-0057ff?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/-LinkedIn-0057ff?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
   <a href="mailto:devendrabaghel0220@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Personal_Updates-f54260?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-f54260?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://x.com/DevendraSingh_4" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
 </p>
