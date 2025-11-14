@@ -42,17 +42,17 @@
 
   <!-- StudySync -->
   <a href="https://github.com/Devendra-singh-baghel/studysync" target="_blank">
-    <img src="https://img.shields.io/badge/📘_StudySync-0069ff?style=for-the-badge&logo=readme&logoColor=white" />
+    <img src="https://img.shields.io/badge/-StudySync-0069ff?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 
   <!-- Netflix Clone -->
   <a href="https://github.com/Devendra-singh-baghel/netflix-clone" target="_blank">
-    <img src="https://img.shields.io/badge/🎬_Cineflix_(Netflix_Clone)-ff0033?style=for-the-badge&logo=netflix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cineflix_(Netflix_Clone)-ff0033?style=for-the-badge&logo=netflix&logoColor=white" />
   </a>
 
   <!-- MealMate -->
   <a href="https://github.com/Devendra-singh-baghel/MealMate-RecipeFinder" target="_blank">
-    <img src="https://img.shields.io/badge/🍽️_MealMate_Recipe_Finder-f7b500?style=for-the-badge&logo=foodpanda&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MealMate_Recipe_Finder-f7b500?style=for-the-badge&logo=foodpanda&logoColor=white" />
   </a>
 
 </p>
