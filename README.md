@@ -29,8 +29,8 @@
 <h2 align="left">🔥 Streaks</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Devendra-singh-baghel&theme=dark&hide_border=true&background=0D1117&ring=F28C28&fire=F28C28&currStreakNum=FFF&sideNums=FFF&currStreakLabel=F28C28&sideLabels=FFF&dates=AAA" />
-</p>   add outer border in this as it middle border. border color are same.
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Devendra-singh-baghel&theme=highcontrast" alt="GitHub Streak" /></a>
+</p>
 
 <br/>
 
